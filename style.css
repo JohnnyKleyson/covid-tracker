@@ -16,6 +16,9 @@ html {
 #cases {
   color: #be64f1;
 }
+#confirmed {
+  color: #f4e136;
+}
 body {
   background-image: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)),
     url("./assets/bg.jpg");
